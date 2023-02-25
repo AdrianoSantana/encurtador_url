@@ -15,3 +15,13 @@ Requisitos:
 * GET /:code - utiliza o code para redirecionar para a url original
 * O code é um código único, a mesma url enviada várias vezes gera códigos diferentes
 * O code tem o tamanho de até 6 caracteres
+
+
+Steps:
+
+- [x] Criar DTO
+- [x] Criar Models
+- [ ] Criar Router
+- [ ] Criar Controller
+- [ ] Criar Repository
+- [ ] Criar Server
